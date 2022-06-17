@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aman-saleem-qbatch
-- 👀 I’m interested in Data Engineering and Web Development
-- 🌱 I’m currently learning MERN stack and Cloud Computing
-- 💞️ I’m looking to collaborate on Cloud Computing
+- 👀 I’m interested in Data Engineering and Cloud Computing
+- 🌱 I’m currently working on writing ETL workflow and Cloud Computing
+- 💞️ I’m looking to explore on Cloud Computing
 - 📫 How to reach me aman.saleem@qbatch.com
 
 <!---
